@@ -134,7 +134,7 @@ const App = ({ classes }) => {
         <div className={classes.root}>
             <div className={classes.title}>
                 <Typography variant="h3">
-                    Text-to-image Playground <span role="img" aria-label="sparks-emoji">✨</span>
+                    Text-to-image <span role="img" aria-label="sparks-emoji">✨</span>
                 </Typography>
             </div>
 
